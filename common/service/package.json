@@ -1,0 +1,10 @@
+{
+  "name": "@common/service",
+  "version": "1.0.0",
+  "description": "pnpm-workspace-common-service",
+  "pricate": true,
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "main": "index.ts"
+}
